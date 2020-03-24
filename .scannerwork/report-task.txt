@@ -1,0 +1,7 @@
+organization=space-game-web-38320
+projectKey=nicoterreyre_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6039
+dashboardUrl=https://sonarcloud.io/dashboard?id=nicoterreyre_mslearn-tailspin-spacegame-web
+ceTaskId=AXEGyJfeCEyOcw-UQSHZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXEGyJfeCEyOcw-UQSHZ
